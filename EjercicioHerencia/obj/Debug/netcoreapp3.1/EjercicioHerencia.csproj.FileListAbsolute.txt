@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.exe
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.deps.json
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.json
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\bin\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.AssemblyInfo.cs
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.dll
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.pdb
+C:\Users\DELL\Desktop\practica#poo\EjercicioHerencia\obj\Debug\netcoreapp3.1\EjercicioHerencia.genruntimeconfig.cache
